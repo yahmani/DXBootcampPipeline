@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Current status of the implementation of the User Story. --></help>
+    <label><!-- Status --></label>
+    <name>copado__Status__c</name>
+    <picklistValues>
+        <masterLabel>Cancelled</masterLabel>
+        <translation><!-- Cancelled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Developer Assigned</masterLabel>
+        <translation><!-- Developer Assigned --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Development Complete</masterLabel>
+        <translation><!-- Development Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Development In Progress</masterLabel>
+        <translation><!-- Development In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Done</masterLabel>
+        <translation><!-- Done --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Grooming</masterLabel>
+        <translation><!-- Grooming --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Grooming Complete</masterLabel>
+        <translation><!-- Grooming Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No Merge Conflicts</masterLabel>
+        <translation><!-- No Merge Conflicts --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Production Released</masterLabel>
+        <translation><!-- Production Released --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>QA Complete</masterLabel>
+        <translation><!-- QA Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>QA In Progress</masterLabel>
+        <translation><!-- QA In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Production</masterLabel>
+        <translation><!-- Ready for Production --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for QA</masterLabel>
+        <translation><!-- Ready for QA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for UAT</masterLabel>
+        <translation><!-- Ready for UAT --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Requirements Verified</masterLabel>
+        <translation><!-- Requirements Verified --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UAT Complete</masterLabel>
+        <translation><!-- UAT Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UAT In Progress</masterLabel>
+        <translation><!-- UAT In Progress --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

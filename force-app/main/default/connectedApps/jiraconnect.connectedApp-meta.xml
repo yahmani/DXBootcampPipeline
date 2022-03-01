@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>yahmani@copado.com</contactEmail>
+    <contactPhone>+33760251007</contactPhone>
+    <label>jiraconnect</label>
+    <oauthConfig>
+        <callbackUrl>https://localhost/plugins/servlet/oauth2/client/callback/R4XzzFXgVp8sboKRD8sBvQ</callbackUrl>
+        <consumerKey>3MVG9Eroh42Z9.iVTbBn_0eoVnk48Qe5gKa6IcetM32DMFV5_kEswbOw0_.K3hXirCVkEwsHk0SnbDS11uypZ</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://localhost:443/plugins/servlet/oauth/authorize</authorizeUrl>
+    <consumerKey>OauthKey</consumerKey>
+    <consumerSecret>8+DW0vhNNGLzzbZ/HNHhqBa4ii7cYBbsraRFrJ65vvJgw8grY2tAthF1zOfEWBi0YSum66UmXltvY4eHcJK2xQuGdWEtWJ4WoMgAkY2ke+d33Gfgl+F08qZKcPOoZE/9kdVrHEFulmE=</consumerSecret>
+    <friendlyName>jira-server</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <tokenUrl>https://localhost:443/plugins/servlet/oauth/token</tokenUrl>
+</AuthProvider>
