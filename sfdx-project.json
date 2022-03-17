@@ -1,12 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "DXPackage1",
+            "versionName": "DX_TRIAL_PACKAGE_1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "dxtrialproject",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "DXPackage1": "0Ho5f000000sYTpCAM"
     }
-  ],
-  "name": "dxtrialproject",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
 }
